@@ -1,0 +1,23 @@
+[
+   {
+      "modid":"PowerGrid",
+      "name":"PowerGrid",
+      "description":"The universal energy mod",
+      "version":"${version}",
+	  "mcversion": "${mcversion}",
+      "url":"",
+      "updateUrl":"",
+      "authorList":[
+         "PaleoCrafter"
+      ],
+      "credits":"By PaleoCrafter",
+      "logoFile":"/assets/powergrid/logo.png",
+      "screenshots":[
+
+      ],
+      "parent":"",
+      "dependencies":[
+        "mod_MinecraftForge"
+      ]
+   }
+]

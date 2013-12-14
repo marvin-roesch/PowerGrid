@@ -1,0 +1,4 @@
+tile.powergrid:cable.name=Cable
+tile.powergrid:energon.name=Energon
+item.powergrid:energonBucket.name=Energon Bucket
+itemGroup.PowerGrid=PowerGrid
